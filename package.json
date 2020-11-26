@@ -1,0 +1,22 @@
+{
+  "name": "pokemon-api",
+  "version": "1.0.0",
+  "description": "Used only for dev purposes",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "make dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://qualio-vobpti@git.codesubmit.io/qualio/poke-api-1-vobpti"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
