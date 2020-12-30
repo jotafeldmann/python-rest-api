@@ -1,8 +1,8 @@
-# Pokemon API
+# Python REST API
 
 ## Purpose
 
-REST API for Pokemons.
+REST API scaffold for Python.
 
 ## Requirements
 
